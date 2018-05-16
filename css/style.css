@@ -1,0 +1,87 @@
+body{
+    background-color: #FFFFFF;
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+}
+.common_mar{
+    margin: 50px 0px;
+}
+.head{
+    min-height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image:url(../images/head.jpg);
+    background-size: cover;
+}
+.nav_text{}
+.nav_text ul li a{
+    padding: 30px 40px !important;
+    color: white !important;
+    font-size: 18px;
+}
+.nav_text ul li a:hover{
+    color: goldenrod !important;
+}
+.custom_tog{
+    border-color: white!important;
+}
+.head_text{margin-top: 120px;}
+.head_text h4{color:#C5C4CC;}
+.head_text h1{color:white; font-size:55px; }
+.head_text button{
+    color:white;
+    background-color: transparent;
+    border:1px solid white;
+    border-radius: 5px;
+    padding: 15px 45px;
+    margin-top: 50px;
+}
+.head_text button:hover{
+    color:goldenrod;
+    background-color:white;
+}
+.brand{background-color: #FAFAFA;}
+.dev_text p{
+    margin-top: 30px;
+}
+.feature_icon i{
+    font-size: 45px;
+}
+.icon_text h4{
+    font-weight: bold;
+}
+.client{background-color: #FAFAFA;}
+.client_card{
+    background-color:white;
+}
+.top_right{margin-top: 50px;}
+.top_left{margin-top: 80px;}
+.logo_mar{margin: 20px 0px;}
+.team{
+    background-color: #111111;
+    color: white;
+}
+.team_text p{color: gainsboro;}
+.team_content h6{color: gainsboro;}
+.team_foot p{color: gainsboro;}
+.custom_card{
+    background-color: transparent;
+    color: white;
+    border: 1px solid transparent;
+}
+.custom_card img{
+    max-width: 75%;
+    margin-left: 42px;
+}
+.custom_card i{
+    font-size: 35px;
+    color: white;
+}
+.foot{
+    background-color: #7691C6;
+    color: white;
+}
+.foot_text hr{
+    margin: 30px 0px;
+    border: .5px solid white;
+}

@@ -1,0 +1,109 @@
+/**Extra small devices (portrait phones, less than 576px)**/
+ @media (min-width: 320px) and (max-width:575px) { 
+     .banner{
+         padding-top: 0px;
+     }
+ .ban_text h2{
+        font-size: 25px;
+    }
+     .icon_text h4{
+    font-size: 14px;
+    margin-top: 10px;
+     }
+     .custom_icon{
+         text-align: center;
+     }
+      .custom_card img {
+    margin-left: 18px;
+   }
+    .custom_card i {
+    font-size: 14px;
+    }
+     .custom_card h5 {  
+         font-size: 15px;
+         margin-top: 10px;
+     }
+      .custom_card h6 {  
+         font-size: 18px;
+     }
+     .card-body {
+     padding:0px;
+    }
+      .feature_text h1{
+        font-size: 35px;
+    }
+      .left img{
+        margin-top: 90px;
+    }
+     .ban_img img{
+         margin-top: 40px;
+     }
+     .custom_form {
+         width: 60%;}
+.footer_label {
+    margin-left: 50px;
+     }
+     .foot_text p{
+         font-size: 14px;
+     }
+}
+
+ /**Small devices (landscape phones, 576px and up)**/
+@media (min-width: 576px) and (max-width:767px) { 
+.nav_text ul li a {
+    padding: 15px 10px !important;
+    }
+    .ban_text {
+        margin-top: 0px;
+    }
+     .ban_text h2{
+        font-size: 25px;
+    }
+    .icon_text h4{
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .custom_card img {
+    margin-left: 20px;
+   }
+    .custom_card i {
+    font-size: 25px;
+    }
+    .left img{
+        margin-top: 90px;
+    }
+.footer_label {
+    margin-left: 22px;
+    }
+}
+
+/** Medium devices (tablets, 768px and up)**/
+@media (min-width: 768px) and (max-width:991px) { 
+.nav_text ul li a {
+           padding: 30px 30px !important;
+    }
+    .ban_text h2{
+        font-size: 24px;
+    }
+    .custom_card h5{
+        font-size: 16px;
+    }
+    .top_right {
+    margin-top: 20px;
+    }
+    .top_left {
+    margin-top: 30px;
+   }
+}
+
+/** Large devices (desktops, 992px and up)**/
+@media (min-width: 992px) and (max-width:1199px) { 
+    .nav_text ul li a {
+           padding: 30px 54px !important;
+    }
+}
+
+/** Extra large devices (large desktops, 1200px and up)**/
+@media (min-width: 1200px) { 
+
+}
